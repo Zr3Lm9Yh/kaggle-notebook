@@ -2,11 +2,7 @@
 
 ****
 ## 目录
-* [总览](#总览)
-    * 项目是做什么
-    * 怎么做
-    * 目前有什么
-    * 目前需要什么
+* [泰坦尼克号船员存活率预测](https://github.com/Zr3Lm9Yh/Distant-similarity/blob/master/plan.md "悬停显示")
 
 * [软件功能介绍](#软件功能介绍)
 
